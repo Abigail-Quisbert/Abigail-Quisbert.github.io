@@ -15,5 +15,5 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 ## PROYECTOS
 
 - EST-383
-- EST-384
-# VARIANZA, COVARIANZA, ESTADISTICA ES LA ESPERANZA
+- EST-384-
+### _VARIANZA, COVARIANZA, ESTADISTICA ES LA ESPERANZA_
