@@ -1,10 +1,10 @@
-title: Your awesome title
-email: your-email@domain.com
+title: PROYECTO EST-384
+email: quisbertabigail10@gmail.com
 description: description
-baseurl: /Jekyll-Avalon
-url: http://joshuaavalon.github.io
-twitter_username: joshuaavalon
-github_username:  joshuaavalon
+baseurl: /ESTADISTICA
+url: http://Abigail-Quisbert.github.io
+twitter_username: @Abigail33008700
+github_username:  Abigail-Quisbert
 
 sass:
   style: compressed
